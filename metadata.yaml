@@ -1,0 +1,24 @@
+_repo: Universal-Brotherhood-Volume-XIII-No-11-February-1899-A-Magazine-Devoted-to-the-Brotherhood-o__57855
+_version: 0.0.1
+creator:
+  author: &id001
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor: *id001
+description: ''
+gutenberg_issued: '2018-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Universal Brotherhood, Volume XIII, No. 11, February 1899
+
+  A Magazine Devoted to the Brotherhood of Humanity'
+url: http://www.gutenberg.org/ebooks/57855
